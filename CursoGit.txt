@@ -1,6 +1,5 @@
 Jhan Carlos Bacca ha iniciado un nuevo curso en platzi, es muy util para el desarrollo de software
 y el control de versiones
-
 En esta ocasion ha decidido inciar un curso de git-profesional
-
-esperemos que todo termine de la mejor manera.
+esperemos que todo termine de la mejor manera
+Es un poco aburrido a decir verdad.
