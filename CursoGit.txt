@@ -5,4 +5,8 @@ esperemos que todo termine de la mejor manera
 Es un poco aburrido a decir verdad.
 vivo en valledupar - cesar y soy ingeniero de sistemas
 
+<<<<<<< HEAD
 esta es la modificacion que le agrego userbackdoor
+=======
+esto lo agrego userbackdoor
+>>>>>>> 03577c647829ca5b1c4711f0f5449287e9e2db08
